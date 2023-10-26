@@ -1,0 +1,17 @@
+.skill {
+  padding: 0.3rem 1rem;
+  border-radius: 5px;
+  color: black;
+}
+
+.beginner {
+  background-color: skyblue;
+}
+
+.medium {
+  background-color: yellow;
+}
+
+.advanced {
+  background-color: green;
+}
